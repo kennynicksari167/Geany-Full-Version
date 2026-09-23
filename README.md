@@ -241,4 +241,4 @@ This repository serves as the official landing page for Geany. The software is d
 **Get the most recent version of Geany today!**
 
 ---
-**Last updated:** 2026-09-23 09:03:01 UTC
+**Last updated:** 2026-09-23 14:39:10 UTC
